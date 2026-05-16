@@ -1,0 +1,206 @@
+{
+  "generated_at": "2026-05-16T16:20:23.694468+00:00",
+  "market_count": 20,
+  "markets": [
+    {
+      "rank": 1,
+      "slug": "will-donald-trump-win-the-2024-us-presidential-election",
+      "question": "Will Donald Trump win the 2024 US Presidential Election?",
+      "resolution": "Yes",
+      "end_date": "2024-11-05",
+      "volume_usdc": 1531479284.504353,
+      "event_title": "Presidential Election Winner 2024",
+      "file": "will-donald-trump-win-the-2024-us-presidential-election.json"
+    },
+    {
+      "rank": 2,
+      "slug": "will-kamala-harris-win-the-2024-us-presidential-election",
+      "question": "Will Kamala Harris win the 2024 US Presidential Election?",
+      "resolution": "No",
+      "end_date": "2024-11-04",
+      "volume_usdc": 1037039118.18879,
+      "event_title": "Presidential Election Winner 2024",
+      "file": "will-kamala-harris-win-the-2024-us-presidential-election.json"
+    },
+    {
+      "rank": 3,
+      "slug": "will-donald-trump-be-inaugurated",
+      "question": "Will Donald Trump be inaugurated?",
+      "resolution": "Yes",
+      "end_date": "2025-01-20",
+      "volume_usdc": 400409526.886835,
+      "event_title": "Who will be inaugurated as President? ",
+      "file": "will-donald-trump-be-inaugurated.json"
+    },
+    {
+      "rank": 4,
+      "slug": "will-nicolae-ciuca-win-the-2024-romanian-presidential-election",
+      "question": "Will Nicolae Ciuc\u0103 win the 2024 Romanian Presidential election?",
+      "resolution": "No",
+      "end_date": "2024-12-08",
+      "volume_usdc": 326507670.562732,
+      "event_title": "(Old) Romania Election",
+      "file": "will-nicolae-ciuca-win-the-2024-romanian-presidential-election.json"
+    },
+    {
+      "rank": 5,
+      "slug": "will-any-other-republican-politician-win-the-2024-us-presidential-election",
+      "question": "Will any other Republican Politician win the 2024 US Presidential Election?",
+      "resolution": "No",
+      "end_date": "2024-11-05",
+      "volume_usdc": 241655099.850067,
+      "event_title": "Presidential Election Winner 2024",
+      "file": "will-any-other-republican-politician-win-the-2024-us-presidential-election.json"
+    },
+    {
+      "rank": 6,
+      "slug": "will-michelle-obama-win-the-2024-us-presidential-election",
+      "question": "Will Michelle Obama win the 2024 US Presidential Election?",
+      "resolution": "No",
+      "end_date": "2024-11-05",
+      "volume_usdc": 153382275.618594,
+      "event_title": "Presidential Election Winner 2024",
+      "file": "will-michelle-obama-win-the-2024-us-presidential-election.json"
+    },
+    {
+      "rank": 7,
+      "slug": "will-zohran-mamdani-win-the-2025-nyc-mayoral-election",
+      "question": "Will Zohran Mamdani win the 2025 NYC mayoral election?",
+      "resolution": "Yes",
+      "end_date": "2025-11-04",
+      "volume_usdc": 143254859.334333,
+      "event_title": "New York City Mayoral Election",
+      "file": "will-zohran-mamdani-win-the-2025-nyc-mayoral-election.json"
+    },
+    {
+      "rank": 8,
+      "slug": "will-robert-f-kennedy-jr-win-the-2024-us-presidential-election",
+      "question": "Will Robert F. Kennedy Jr. win the 2024 US Presidential Election?",
+      "resolution": "No",
+      "end_date": "2024-11-05",
+      "volume_usdc": 141605110.748029,
+      "event_title": "Presidential Election Winner 2024",
+      "file": "will-robert-f-kennedy-jr-win-the-2024-us-presidential-election.json"
+    },
+    {
+      "rank": 9,
+      "slug": "will-trump-nominate-judy-shelton-as-the-next-fed-chair",
+      "question": "Will Trump nominate Judy Shelton as the next Fed chair?",
+      "resolution": "No",
+      "end_date": "2026-12-31",
+      "volume_usdc": 127684064.95211223,
+      "event_title": "Who will Trump nominate as Fed Chair?",
+      "file": "will-trump-nominate-judy-shelton-as-the-next-fed-chair.json"
+    },
+    {
+      "rank": 10,
+      "slug": "will-any-other-democratic-politician-win-the-2024-us-presidential-election",
+      "question": "Will any other Democratic Politician win the 2024 US Presidential Election?",
+      "resolution": "No",
+      "end_date": "2024-11-05",
+      "volume_usdc": 116558196.386525,
+      "event_title": "Presidential Election Winner 2024",
+      "file": "will-any-other-democratic-politician-win-the-2024-us-presidential-election.json"
+    },
+    {
+      "rank": 11,
+      "slug": "will-frances-fitzgerald-win-the-irish-presidential-election",
+      "question": "Will Frances Fitzgerald win the Irish Presidential Election?",
+      "resolution": "No",
+      "end_date": "2025-11-11",
+      "volume_usdc": 115067178.333268,
+      "event_title": "Ireland Presidential Election",
+      "file": "will-frances-fitzgerald-win-the-irish-presidential-election.json"
+    },
+    {
+      "rank": 12,
+      "slug": "will-nikki-haley-win-the-2024-us-presidential-election",
+      "question": "Will Nikki Haley win the 2024 US Presidential Election?",
+      "resolution": "No",
+      "end_date": "2024-11-05",
+      "volume_usdc": 107529158.083605,
+      "event_title": "Presidential Election Winner 2024",
+      "file": "will-nikki-haley-win-the-2024-us-presidential-election.json"
+    },
+    {
+      "rank": 13,
+      "slug": "will-hillary-clinton-win-the-2024-us-presidential-election",
+      "question": "Will Hillary Clinton win the 2024 US Presidential Election?",
+      "resolution": "No",
+      "end_date": "2024-11-05",
+      "volume_usdc": 93307167.686999,
+      "event_title": "Presidential Election Winner 2024",
+      "file": "will-hillary-clinton-win-the-2024-us-presidential-election.json"
+    },
+    {
+      "rank": 14,
+      "slug": "will-gavin-newsom-be-d-nom-for-vp-on-election-day",
+      "question": "Will Gavin Newsom be D-nom for VP on Election Day?",
+      "resolution": "No",
+      "end_date": "2024-11-04",
+      "volume_usdc": 92886849.31616,
+      "event_title": "Democratic VP nominee on election day?",
+      "file": "will-gavin-newsom-be-d-nom-for-vp-on-election-day.json"
+    },
+    {
+      "rank": 15,
+      "slug": "will-trump-release-the-epstein-files-by-december-19-771",
+      "question": "Will Trump release the Epstein files by December 19?",
+      "resolution": "Yes",
+      "end_date": null,
+      "volume_usdc": 90915983.771306,
+      "event_title": "Will Trump release Epstein files by...? ",
+      "file": "will-trump-release-the-epstein-files-by-december-19-771.json"
+    },
+    {
+      "rank": 16,
+      "slug": "will-lee-jae-myung-be-elected-the-next-president-of-south-korea",
+      "question": "Will Lee Jae-myung be elected the next president of South Korea?",
+      "resolution": "Yes",
+      "end_date": "2025-06-03",
+      "volume_usdc": 88035547.447225,
+      "event_title": "Next president of South Korea?",
+      "file": "will-lee-jae-myung-be-elected-the-next-president-of-south-korea.json"
+    },
+    {
+      "rank": 17,
+      "slug": "romania-presidential-election-winner-will-hunor-kelemen-win-the-romanian-presidential-election",
+      "question": "Will Hunor Kelemen win the Romanian presidential election?",
+      "resolution": "No",
+      "end_date": "2025-12-31",
+      "volume_usdc": 80897096.543524,
+      "event_title": "Romania Presidential Election Winner",
+      "file": "romania-presidential-election-winner-will-hunor-kelemen-win-the-romanian-presidential-election.json"
+    },
+    {
+      "rank": 18,
+      "slug": "will-trump-launch-a-coin-before-the-election",
+      "question": "Will Trump launch a coin before the election?",
+      "resolution": "Yes",
+      "end_date": "2024-11-04",
+      "volume_usdc": 76899060.598799,
+      "event_title": "Will Trump launch a coin before the election?",
+      "file": "will-trump-launch-a-coin-before-the-election.json"
+    },
+    {
+      "rank": 19,
+      "slug": "will-kim-moon-soo-be-elected-the-next-president-of-south-korea",
+      "question": "Will Kim Moon-soo be elected the next president of South Korea?",
+      "resolution": "No",
+      "end_date": "2025-06-03",
+      "volume_usdc": 73197949.803466,
+      "event_title": "Next president of South Korea?",
+      "file": "will-kim-moon-soo-be-elected-the-next-president-of-south-korea.json"
+    },
+    {
+      "rank": 20,
+      "slug": "will-kamala-harris-be-inaugurated",
+      "question": "Will Kamala Harris be inaugurated?",
+      "resolution": "No",
+      "end_date": "2024-12-20",
+      "volume_usdc": 72247146.4466322,
+      "event_title": "Who will be inaugurated as President? ",
+      "file": "will-kamala-harris-be-inaugurated.json"
+    }
+  ]
+}

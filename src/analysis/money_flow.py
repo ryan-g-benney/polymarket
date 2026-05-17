@@ -51,16 +51,24 @@ def calculate_money_flow_alpha(trades: pl.DataFrame) -> dict:
     # Direction is determined by the max accumulated area
     direction = "YES" if yes_area > no_area else "NO"
     
-    # Calculate ratio and the 10th-power alpha signal
-    if yes_area > 0 and no_area > 0:
-        ratio_no_yes = no_area / yes_area
-        # The alpha signal is calculated as max(no/yes, yes/no)^10 to identify extreme accumulation in either direction
-        # Alternatively, applying it consistently to the directional ratio
-        alpha_base = max(no_area / yes_area, yes_area / no_area)
-        alpha_signal = abs(alpha_base)**10
+    import math
+    
+    total_area = yes_area + no_area
+    
+    # Calculate percentages and ratio
+    if total_area > 0:
+        yes_pct = yes_area / total_area
+        no_pct = no_area / total_area
+        
+        if no_pct > 0 and yes_pct > 0:
+            ratio_no_yes = no_pct / yes_pct
+            alpha_signal = abs(math.log10(ratio_no_yes))
+        else:
+            ratio_no_yes = float('inf') if yes_pct == 0 else 0.0
+            alpha_signal = float('inf')
     else:
-        ratio_no_yes = float('inf') if yes_area == 0 else 0.0
-        alpha_signal = float('inf')
+        ratio_no_yes = float('inf')
+        alpha_signal = 0.0
 
     return {
         "yes_area": yes_area,

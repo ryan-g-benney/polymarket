@@ -12,8 +12,8 @@ def main():
     with open(markets_file, "r") as f:
         markets = json.load(f)
 
-    # Threshold for High Conviction
-    HIGH_CONVICTION_THRESHOLD = 1e10
+    # Threshold for High Conviction (1.0 = 10x accumulation)
+    HIGH_CONVICTION_THRESHOLD = 1.0
 
     for mkt in markets:
         q = mkt['question']

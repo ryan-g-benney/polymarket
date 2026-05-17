@@ -1,0 +1,56 @@
+[
+    {
+        "question": "Israel military action against Iran before July?",
+        "condition_id": "0xd25ff3223a2233f6cd96a349455ca3237931c64358792f90c5f02d8cc39be38d",
+        "token_yes": "109681959945973300464568698402968596289258214226684818748321941747028805721376",
+        "resolution": "Yes",
+        "volume_m": 4.5,
+        "slug": "israel-military-action-against-iran-before-july",
+        "category": "Iran Strikes"
+    },
+    {
+        "question": "US x Iran ceasefire by April 7?",
+        "condition_id": "0x4c5701bcde0b8fb7d7f48c8e9d20245a6caa58c61a77f981fad98f2bfa0b1bc7",
+        "token_yes": "82855088893985825781350466813737280564000275725006328179621744619327480699369",
+        "resolution": "Yes",
+        "volume_m": 173.6,
+        "slug": "us-x-iran-ceasefire-by-april-7",
+        "category": "Iran Ceasefire"
+    },
+    {
+        "question": "US x Iran ceasefire by March 31?",
+        "condition_id": "0x3c6bcb7da14ea576e5af25547dbd96f2bb24ac34e748e76aecff2ee9195dd1ac",
+        "token_yes": "5708561660601459805512817131601230493971589760294984590237789749933853841330",
+        "resolution": "No",
+        "volume_m": 44.3,
+        "slug": "us-x-iran-ceasefire-by-march-31",
+        "category": "Iran Ceasefire"
+    },
+    {
+        "question": "Ethereum ETF approved by May 31?",
+        "condition_id": "0x4fdc8c72f3013001dccc152e318cb3fcb16da16c741816c3078a42947702ece5",
+        "token_yes": "78309444736185544262992162576931418260050379456195987873071545690014436803266",
+        "resolution": "Yes",
+        "volume_m": 13.2,
+        "slug": "ethereum-etf-approved-by-may-31",
+        "category": "Ether ETF"
+    },
+    {
+        "question": "Ethereum ETF approved in 2024?",
+        "condition_id": "0x0ad01a122038561605ed02523ff26c98d26f301164298be3a1835724f8d49326",
+        "token_yes": "",
+        "resolution": "Yes",
+        "volume_m": 0.19,
+        "slug": "ethereum-etf-approved-in-2024",
+        "category": "Ether ETF"
+    },
+    {
+        "question": "Ethereum ETF begins trading by July 26?",
+        "condition_id": "0xc0109105d687198f2754046ce044cd50f2fd37baad2414e482d0650f2819d2d3",
+        "token_yes": "",
+        "resolution": "Yes",
+        "volume_m": 1.0,
+        "slug": "ethereum-etf-begins-trading-by-july-26",
+        "category": "Ether ETF"
+    }
+]

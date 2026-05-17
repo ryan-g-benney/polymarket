@@ -1,0 +1,9 @@
+{
+  "question": "Will Zelenskyy wear a suit before July?",
+  "slug": "will-zelenskyy-wear-a-suit-before-july",
+  "condition_id": "0x655e5ca101c466b6293aa15e06173b78b293221803d56e35551f708cd82eb352",
+  "token_yes": "50456034003768780640090640673183716247804249213073893742601498049736025131399",
+  "resolution": "No",
+  "volume_m": 242.2,
+  "end_date": "2025-06-30"
+}

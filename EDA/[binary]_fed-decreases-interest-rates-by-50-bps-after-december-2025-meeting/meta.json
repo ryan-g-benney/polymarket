@@ -1,0 +1,9 @@
+{
+  "question": "Fed decreases interest rates by 50+ bps after December 2025 meeting?",
+  "slug": "fed-decreases-interest-rates-by-50-bps-after-december-2025-meeting",
+  "condition_id": "0x6903b766f5fda3d5b02f4472a6b4154419e78b7fd126c0b29ce17bb8e20b20cc",
+  "token_yes": "47783403574993523839437960779660432019918826248568025803540621408629700723282",
+  "resolution": "No",
+  "volume_m": 161.6,
+  "end_date": "2025-12-10"
+}

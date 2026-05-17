@@ -1,0 +1,9 @@
+{
+  "question": "US government shutdown Saturday?",
+  "slug": "will-there-be-another-us-government-shutdown-by-january-31",
+  "condition_id": "0x43ec78527bd98a0588dd9455685b2cc82f5743140cb3a154603dc03c02b57de5",
+  "token_yes": "52607315900507156846622820770453728082833251091510131025984187712529448877245",
+  "resolution": "Yes",
+  "volume_m": 157.3,
+  "end_date": "2026-01-31"
+}

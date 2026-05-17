@@ -1,0 +1,9 @@
+{
+  "question": "Will Donald Trump be inaugurated?",
+  "slug": "will-donald-trump-be-inaugurated",
+  "condition_id": "0xc3d4155148681756bfe67bb41d8d0882a8a122e7d3762b3591bf6598c9bd198b",
+  "token_yes": "93282891591459983862012065600381847009958447919673012406534124867440447804923",
+  "resolution": "Yes",
+  "volume_m": 400.4,
+  "end_date": "2025-01-20"
+}

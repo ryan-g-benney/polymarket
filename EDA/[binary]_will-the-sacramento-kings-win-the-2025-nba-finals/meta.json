@@ -1,0 +1,9 @@
+{
+  "question": "Will the Sacramento Kings win the 2025 NBA Finals?",
+  "slug": "will-the-sacramento-kings-win-the-2025-nba-finals",
+  "condition_id": "0x763cc84a3cde36b9ce12a8afe6d3e1e3e46e50692e8ec47636c7803c1033cfab",
+  "token_yes": "41257670817876317355997233596113195194194608207987371129645019730826567930842",
+  "resolution": "No",
+  "volume_m": 378.0,
+  "end_date": "2025-06-23"
+}
